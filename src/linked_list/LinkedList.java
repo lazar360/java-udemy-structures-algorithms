@@ -70,7 +70,11 @@ public class LinkedList {
     }
 
     // WRITE FIND MIDDLE NODE METHOD HERE //
+    public Node findMiddleNode(){
 
+
+        return null;
+    }
 
 }
 
