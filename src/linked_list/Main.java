@@ -1,3 +1,5 @@
+package linked_list;
+
 import linked_list.LinkedList1;
 
 public class Main {
