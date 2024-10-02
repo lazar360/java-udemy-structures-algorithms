@@ -3,7 +3,7 @@ import linked_list.LinkedList1;
 public class Main {
 
     public static void main(String[] args) {
-        LinkedList1 myLinkedList = new LinkedList1(1);
+        /*LinkedList1 myLinkedList = new LinkedList1(1);
         myLinkedList.append(2);
         myLinkedList.append(3);
         myLinkedList.append(4);
@@ -13,7 +13,7 @@ public class Main {
         int result = myLinkedList.findKthFromEnd(k).value;
 
         System.out.println(result); // Output: 4
-
+*/
         /*
             EXPECTED OUTPUT:
             ----------------
